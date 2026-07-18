@@ -5,3 +5,7 @@
 ## 下一步
 
 学习 git status / diff / log。
+
+## 分支练习
+
+当前在 `feature/hello` 分支上练习分支与 Pull Request。
